@@ -1,4 +1,4 @@
-import { cold } from "jest-marbles";
+import { cold } from "jasmine-marbles";
 import { Subject } from "rxjs";
 import { MovieService } from "./movie.service";
 import { Movie, MovieStore } from "./movie.store";
